@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/acer/PycharmProjects/VAE_MODEL/autoencoder-master/src/save_dir/model"
+all_model_checkpoint_paths: "/home/acer/PycharmProjects/VAE_MODEL/autoencoder-master/src/save_dir/model"
